@@ -28,9 +28,4 @@ Une application de bureau développée en VB.NET pour la gestion de la ferraille
 
 
 
-![Accueil](screenshots/accueil.png)
-![Matériaux](screenshots/materiaux.png)
-![Mouvements](screenshots/mouvements.png)
-
-
 
